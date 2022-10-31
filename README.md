@@ -9,7 +9,7 @@
    
 </head>
 <body>
-     <link href="html_dasar"> <a href="belajaralink.html">Login</a>
+     <a href="html_dasar/belajaralink.html">HTML</a>
     
     
             
