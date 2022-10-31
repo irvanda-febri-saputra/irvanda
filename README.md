@@ -7,11 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <ul>
-      <li><a class="nav-link scrollto active" href="#html_dasar">HTML Dasar</a></li>
-      <a href="form_input.html"><span>FORM INPPUT</span></a>
+    
+      
+      <a href="form_input.html"><span>FORM INPUT</span></a>
         
-    </ul>
     
 </body>
 </html>
