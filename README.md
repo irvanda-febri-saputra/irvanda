@@ -8,9 +8,8 @@
 </head>
 <body>
     
-      <ul>
-      <a href="form_input.html"><span>FORM INPUT</span></a>
-        
-    </ul>
+     <a href="#html_dasar><span>SMKN 1 KOTA PROBOLINGGO</span>
+              <a href="belajaralink.html"><span>SMKN 1 KOTA PROBOLINGGO</span></a>
+              
 </body>
 </html>
