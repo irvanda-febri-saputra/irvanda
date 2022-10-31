@@ -8,31 +8,9 @@
    
 </head>
 <body>
-    <div class="container">
-        <form action="" method="post" class="login-email">
-            <p style="font-size: 2rem; font-weight:850;">Register</p>
-            <div class="input-group">
-                <input type="text" placeholder="Username" name="username">
-            </div>
-
-            <div class="input-group">
-                <input type="text" placeholder="Email" name="email">
-            </div>
-
-            <div class="input-group">
-                <input type="password" placeholder="password" name="password">
-            </div>
-            <div class="input-group">
-                <input type="password" placeholder=" Confirm password" name="cppassword">
-            </div>
-            <div class="input-group">
-                <button name="submit" class="btn">Register</button>
-            </div>
-            <p class="html_dasar">Sudah punya akun?</p>
-            <a href="belajaralink.html">link</a>
-            </div>
+    <link rel="stylesheet" href="html_dasar">
+    
             
-        </form>
-    </div>
+      
 </body>
 </html>
